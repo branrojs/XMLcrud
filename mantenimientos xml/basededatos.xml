@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<basededatos>
+  <personas>
+    <nombre>Adecio </nombre>
+    <apellidos>Recuero</apellidos>
+    <email>adeciorecu@cuc.com</email>
+    <direccion>Tres Rios, Cartago</direccion>
+    <telefono>777777777</telefono>
+  </personas>
+  <personas>
+    <nombre>brandy</nombre>
+    <apellidos>Rojas</apellidos>
+    <email>bran_37@hotmail.com</email>
+    <direccion>Cartago</direccion>
+    <telefono>84060046</telefono>
+  </personas>
+  <personas>
+    <nombre>clodomiro</nombre>
+    <apellidos>picado</apellidos>
+    <email>clopicado@gmail.com</email>
+    <direccion>panama</direccion>
+    <telefono>89898989</telefono>
+  </personas>
+</basededatos>

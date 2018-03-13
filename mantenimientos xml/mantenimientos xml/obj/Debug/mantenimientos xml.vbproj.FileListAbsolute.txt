@@ -1,0 +1,33 @@
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe.config
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.pdb
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.xml
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Form1.resources
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Resources.resources
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.exe
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.xml
+c:\users\andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.pdb
+C:\Users\Andres\documents\visual studio 2013\Projects\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbprojResolveAssemblyReference.cache
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe.config
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.exe
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.xml
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.pdb
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.pdb
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.xml
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbprojResolveAssemblyReference.cache
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Form1.resources
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Resources.resources
+C:\Users\Tic\Desktop\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbproj.GenerateResource.Cache
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe.config
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.exe
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.xml
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.pdb
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.exe
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.pdb
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\bin\Debug\mantenimientos xml.xml
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbprojResolveAssemblyReference.cache
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Form1.resources
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos_xml.Resources.resources
+F:\Matenimientos xml\mantenimientos xml\mantenimientos xml\obj\Debug\mantenimientos xml.vbproj.GenerateResource.Cache
